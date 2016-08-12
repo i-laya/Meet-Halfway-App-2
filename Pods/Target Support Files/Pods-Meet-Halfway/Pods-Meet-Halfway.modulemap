@@ -1,0 +1,6 @@
+framework module Pods_Meet_Halfway {
+  umbrella header "Pods-Meet-Halfway-umbrella.h"
+
+  export *
+  module * { export * }
+}

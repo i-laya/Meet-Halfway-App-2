@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OMGHTTPURLRQ.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Meet-Halfway.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TDOAuth.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>YelpAPI.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>255276EEB36CC38356498B25AC87E868</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8C3CB670E185F6B60B0166FED62E3407</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B49EED51C076D9AF699F24EA4FFC42D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA119F35D4F6B91994A8BEA51405A4C9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EFCDBBC1F30C3CF1AB4414390B37B489</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
